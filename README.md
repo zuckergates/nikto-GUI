@@ -1,2 +1,2 @@
-# nikto-GUI
+# Nikto-GUI
 Nikto Graphical User Interface Based
